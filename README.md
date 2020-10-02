@@ -29,3 +29,27 @@ Thank you for your support
 	Redux Middleware
 5	ReactJs Testing, Integration & Deployment 
 
+
+#	Items
+1	The net/http package
+1.1	HTTP Basics 
+2.2	The http.Handler Interface
+2.3	Session/Cookies 
+2.4	Error handling
+	
+2	URL Routing
+	
+3	Middleware
+	
+4	Rendering
+	
+5	Controllers
+	
+6	Database
+6.1	 MySQL/PostgreSQL
+6.2	Mongo
+	
+7	Ref
+	https://codegangsta.gitbooks.io/building-web-apps-with-go/content/databases/index.html
+
+
